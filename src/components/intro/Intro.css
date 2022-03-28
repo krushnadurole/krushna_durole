@@ -1,0 +1,150 @@
+body
+{
+    /* background-color: black; */
+    overflow: visible;
+    overflow: visible;
+}
+button
+{
+    right: 0;
+    position: absolute;
+    border-radius:60& ;
+}
+.i
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.work-prof
+{
+    height: 60px;
+    overflow: hidden;
+}
+.work-prof-wrapper
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.box
+{
+    float: left;
+}
+* {
+    box-sizing: border-box;
+  }
+.sm-i
+{
+    width: 400px;
+    padding: 10px;
+    color: rgb(151, 144, 89);
+}
+.name
+{
+    padding: 20px;
+}
+.work-prof-wrapper
+{
+    height: 100%;
+    animation: move 5s ease-in-out infinite  alternate;
+}
+@keyframes move
+{
+    25%
+    {   
+        transform: translateY(-50px);
+    }
+    50%
+    {
+        transform: translateY(-100px);
+    }
+    75%
+    {
+        transform: translateY(-150px);
+    }
+    100%
+    {
+        transform: translateY(-200px);
+    }
+}
+.work-prof-wrapper
+{
+    padding: 15px;
+}
+.i-work-prof-item
+{
+    margin-top: 10px;
+    height: 80px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    color:rgba(112, 29, 8, 0.897);
+    padding-left: 12px;
+    align-items:center;
+}
+.i-right-pic
+{
+    margin-left: 400px;
+    height: 60%;
+    width: 40%;
+    
+}
+
+img
+{
+    border-radius: 50%;
+}
+@media screen and (max-width:700px)
+{
+  .i-right-pic
+  {
+       float: none;
+       left: 0;
+       margin-left: 35%;
+  }
+  .i-right box
+  {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+  }
+  .i
+  {
+      flex-direction: column;
+  }
+ .work-prof
+ {
+     width: auto;
+ }
+  .name
+  {
+      padding: 10px;
+  }
+  .complete
+  {
+      width: 80%;
+      overflow:hidden;
+  }
+  .sm-i
+  {
+      width: 300px;
+      word-break: keep-all;
+  }
+
+}
+
+
+
+.my-name
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 15px;
+    color: rgb(98, 110, 110);
+    background-color: rgb(41, 40, 38);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}

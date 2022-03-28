@@ -1,0 +1,35 @@
+.mid-part
+{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
+.main-item
+{
+    margin-left: 50px;
+}
+h4,h3,p
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+@media screen and (max-width:700px)
+{
+    .mid-part
+    {
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: 80%;
+        justify-content: center;
+    }
+
+    .ex-cur
+    {
+        width: 80%;
+        margin-top: 50px;
+    }
+    .main-item
+    {
+        width: 80%;
+    }
+}
