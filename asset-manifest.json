@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/krushna_durole/static/css/main.f44fdd85.chunk.css",
+    "main.js": "/krushna_durole/static/js/main.916c6e1f.chunk.js",
+    "main.js.map": "/krushna_durole/static/js/main.916c6e1f.chunk.js.map",
+    "runtime-main.js": "/krushna_durole/static/js/runtime-main.6ac2ac67.js",
+    "runtime-main.js.map": "/krushna_durole/static/js/runtime-main.6ac2ac67.js.map",
+    "static/js/2.f93d53a3.chunk.js": "/krushna_durole/static/js/2.f93d53a3.chunk.js",
+    "static/js/2.f93d53a3.chunk.js.map": "/krushna_durole/static/js/2.f93d53a3.chunk.js.map",
+    "static/js/3.8480ad4a.chunk.js": "/krushna_durole/static/js/3.8480ad4a.chunk.js",
+    "static/js/3.8480ad4a.chunk.js.map": "/krushna_durole/static/js/3.8480ad4a.chunk.js.map",
+    "index.html": "/krushna_durole/index.html",
+    "static/css/main.f44fdd85.chunk.css.map": "/krushna_durole/static/css/main.f44fdd85.chunk.css.map",
+    "static/js/2.f93d53a3.chunk.js.LICENSE.txt": "/krushna_durole/static/js/2.f93d53a3.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/krushna_durole/static/media/address.a01cb8cc.png",
+    "static/media/email.a49e0158.png": "/krushna_durole/static/media/email.a49e0158.png",
+    "static/media/me.f14c8afb.png": "/krushna_durole/static/media/me.f14c8afb.png",
+    "static/media/phone.d90a6d23.png": "/krushna_durole/static/media/phone.d90a6d23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ac2ac67.js",
+    "static/js/2.f93d53a3.chunk.js",
+    "static/css/main.f44fdd85.chunk.css",
+    "static/js/main.916c6e1f.chunk.js"
+  ]
+}
